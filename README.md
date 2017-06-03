@@ -11,19 +11,17 @@ DAO
 Test
   classe de test
   
-------------------------------------------------------------------------------------------------
 Tabela no banco 
   Login
-------------------------------------------------------------------------------------------------
+
 Campos : 
    id_login : integer increment,
    log_email : varchar(90), 
    log_senha : varchar(40), 
    log_nivel : integer
-------------------------------------------------------------------------------------------------
+
 Nome do banco 
    newEgresso
--------------------------------------------------------------------------------------------------
 
-Autor Paulo Oliveira
-Email : paulosoujava@gmail.com
+#Autor Paulo Oliveira
+#Email : paulosoujava@gmail.com
