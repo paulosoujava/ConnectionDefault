@@ -3,6 +3,14 @@
 
 Apenas um simples exemplo de CRUD
 Create Read Update Delete
+
+Model 
+  Login
+DAO
+  read, create, update, delete
+Test
+  classe de test
+  
 ------------------------------------------------------------------------------------------------
 Tabela no banco 
   Login
